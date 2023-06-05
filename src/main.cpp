@@ -62,7 +62,7 @@ int main(int argc, char *argv[])
 	}
 
 	if (vm.count("version")) {
-		std::cout << CMAKE_PROJECT_NAME << " v" << CMAKE_PROJECT_VERSION << std::endl;
+    std::cout << "click4ever v" << "1.3.0" << std::endl;
 		return EXIT_SUCCESS;
 	}
 
